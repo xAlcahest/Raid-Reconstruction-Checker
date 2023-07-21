@@ -8,7 +8,7 @@ Raid Reconstruction Checker is a simple and useful Bash script to monitor the st
 
 * Displays the real-time status of software RAID reconstruction.
 * Clears the log output on each update for better readability.
-* Customizable update interval (0.005 seconds by default).
+* Customizable update interval (0.5 seconds by default).
 
 ## Requirements
 
